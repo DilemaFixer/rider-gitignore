@@ -1,9 +1,12 @@
 # rider-gitignore
 
-``` curl -o .gitignore https://raw.githubusercontent.com/DilemaFixer/rider-gitignore/main/.gitignore```
+```
+
+curl -o .gitignore https://raw.githubusercontent.com/DilemaFixer/rider-gitignore/main/.gitignore
 
 ```
 
+```
 # Common IntelliJ Platform excludes
 
 # User specific
@@ -38,5 +41,4 @@ _UpgradeReport_Files/
 Thumbs.db
 Desktop.ini
 .DS_Store
-
 ```
