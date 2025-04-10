@@ -1,5 +1,7 @@
 # rider-gitignore
 
+``` curl -o .gitignore https://raw.githubusercontent.com/DilemaFixer/rider-gitignore/main/.gitignore```
+
 ```
 
 # Common IntelliJ Platform excludes
